@@ -4,15 +4,12 @@ body {
 }
 
 .cloudDiv {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 27%;
+    left: 20%;
     position: absolute;
     display: flex;
     flex-direction: column;
     background-color: #ffffff;
-    padding: 16px;
-    margin: 16px;
-    width: 60%;
-    height: 50%;
+    width: 1100px;
+    height: 475px;
 }
