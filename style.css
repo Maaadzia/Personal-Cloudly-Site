@@ -30,13 +30,13 @@ body {
 
 .smallCloudDivRight {
     border: 1px solid grey;
-    width: 625px;
+    width: 800px;
     height: 270px;
     border-radius: 5px;
     margin: 5px;
     padding: 5px;
     transition: 150ms ease-in-out; 
-    top: 30%; 
+    left: 35%; 
     position: absolute;
 }
 
@@ -46,12 +46,14 @@ body {
 
 .smallCloudDivLeft {
     border: 1px solid grey;
-    width: 325px;
+    width: 700px;
     height: 217px;
     border-radius: 5px;
     margin: 5px;
     padding: 5px;
     transition: 150ms ease-in-out; 
+    left: 5%;
+    position: absolute;
 }
 
 .smallCloudDivLeft:hover {
