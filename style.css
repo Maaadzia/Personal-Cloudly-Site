@@ -33,3 +33,7 @@ body {
 .smallCloudDiv:hover {
     transform: scale(1.2);
 }
+
+html {
+    cursor: url('seagul.cur'), auto;
+}
