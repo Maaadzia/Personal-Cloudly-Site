@@ -23,8 +23,13 @@ body {
 .smallCloudDiv {
     border: 1px solid grey;
     width: 325px;
-    height: 227px;
+    height: 217px;
     border-radius: 5px;
     margin: 5px;
     padding: 5px;
+    transition: 150ms ease-in-out; 
+}
+
+.smallCloudDiv:hover {
+    transform: scale(1.2);
 }
