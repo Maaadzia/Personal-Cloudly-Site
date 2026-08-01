@@ -1,6 +1,7 @@
 body {
     background-color: rgb(156, 207, 237);
     background-image: url('cloud.png');
+    font-family: "Comfortaa", sans-serif;
 }
 
 .cloudDiv {
