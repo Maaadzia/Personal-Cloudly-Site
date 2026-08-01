@@ -61,3 +61,8 @@ body {
 html {
     cursor: url('seagul.cur'), auto;
 }
+
+.plane {
+    width: 200px; 
+    height: 100px;
+}
