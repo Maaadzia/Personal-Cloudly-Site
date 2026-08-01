@@ -28,7 +28,23 @@ body {
     flex-direction: row;
 }
 
-.smallCloudDiv {
+.smallCloudDivRight {
+    border: 1px solid grey;
+    width: 625px;
+    height: 270px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    transition: 150ms ease-in-out; 
+    top: 30%; 
+    position: absolute;
+}
+
+.smallCloudDivRight:hover {
+    transform: scale(1.2);
+}
+
+.smallCloudDivLeft {
     border: 1px solid grey;
     width: 325px;
     height: 217px;
@@ -38,7 +54,7 @@ body {
     transition: 150ms ease-in-out; 
 }
 
-.smallCloudDiv:hover {
+.smallCloudDivLeft:hover {
     transform: scale(1.2);
 }
 
