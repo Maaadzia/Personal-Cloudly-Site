@@ -30,7 +30,7 @@ body {
 
 .smallCloudDivRight {
     width: 825px;
-    height: 300px;
+    height: fit-content;
     border-radius: 5px;
     margin: 5px;
     padding: 5px;
