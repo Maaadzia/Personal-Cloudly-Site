@@ -5,12 +5,6 @@ body {
     overflow-y: scroll;
 }
 
-::-webkit-scrollbar-thumb {
-    background: #2f2f2f
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: rgb(140, 201, 236);
 }
 
 .cloudDiv {
