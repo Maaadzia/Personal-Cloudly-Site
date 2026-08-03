@@ -3,6 +3,8 @@
 
 ### Site about me! Cloudly because I want to become a pilot and an aerospace engineer and an astronomer
 
+Try it here: https://maaadzia.github.io/Personal-Cloudly-Site/
+
 ## Guide:
 There are 5 sections:
 
