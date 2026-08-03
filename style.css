@@ -29,7 +29,6 @@ body {
 }
 
 .smallCloudDivRight {
-    border: 1px solid grey;
     width: 825px;
     height: 300px;
     border-radius: 5px;
@@ -49,7 +48,6 @@ body {
 }
 
 .smallCloudDivLeft {
-    border: 1px solid grey;
     width: 700px;
     height: 275px;
     border-radius: 5px;
