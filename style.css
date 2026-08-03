@@ -5,6 +5,8 @@ body {
     overflow-y: scroll;
 }
 
+a {
+    color: #231f41
 }
 
 .cloudDiv {
