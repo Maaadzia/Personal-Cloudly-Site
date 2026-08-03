@@ -107,3 +107,23 @@ html {
     100% { top: 300%; left: 10%; transform: scaleX(-1)}
 }
 
+.photoDiv {
+    border: 1px solid grey;
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    overflow-y: scroll;
+    scrollbar-base-color: #231f41;
+}
+
+.photos {
+    width: 190px;
+    height: 190px;
+    border-radius: 2px;
+}
+
+.photoText {
+    font-size: 10px;
+    color:#8d8989
+}
